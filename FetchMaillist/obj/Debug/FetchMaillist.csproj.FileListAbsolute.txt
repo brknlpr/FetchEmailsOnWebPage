@@ -1,0 +1,10 @@
+c:\users\hp\source\repos\FetchMaillist\FetchMaillist\bin\Debug\FetchMaillist.exe.config
+c:\users\hp\source\repos\FetchMaillist\FetchMaillist\bin\Debug\FetchMaillist.exe
+c:\users\hp\source\repos\FetchMaillist\FetchMaillist\bin\Debug\FetchMaillist.pdb
+c:\users\hp\source\repos\FetchMaillist\FetchMaillist\obj\Debug\FetchMaillist.csprojAssemblyReference.cache
+c:\users\hp\source\repos\FetchMaillist\FetchMaillist\obj\Debug\FetchMaillist.Form1.resources
+c:\users\hp\source\repos\FetchMaillist\FetchMaillist\obj\Debug\FetchMaillist.Properties.Resources.resources
+c:\users\hp\source\repos\FetchMaillist\FetchMaillist\obj\Debug\FetchMaillist.csproj.GenerateResource.cache
+c:\users\hp\source\repos\FetchMaillist\FetchMaillist\obj\Debug\FetchMaillist.csproj.CoreCompileInputs.cache
+c:\users\hp\source\repos\FetchMaillist\FetchMaillist\obj\Debug\FetchMaillist.exe
+c:\users\hp\source\repos\FetchMaillist\FetchMaillist\obj\Debug\FetchMaillist.pdb
